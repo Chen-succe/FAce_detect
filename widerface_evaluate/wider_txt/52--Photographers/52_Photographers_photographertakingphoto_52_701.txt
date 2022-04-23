@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_701
+2
+252 168 349 275 0.9952819
+297 280 391 398 0.87074196

@@ -1,0 +1,4 @@
+2_Demonstration_Demonstration_Or_Protest_2_54
+2
+863 130 901 181 0.93469375
+725 150 757 190 0.7515615

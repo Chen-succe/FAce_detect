@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_553
+2
+437 107 111 150 0.9998634 
+679 75 529 585 0.032638878 

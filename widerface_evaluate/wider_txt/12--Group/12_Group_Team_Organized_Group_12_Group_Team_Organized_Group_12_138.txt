@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_138
+3
+103 898 196 1008 0.86295736
+139 425 209 511 0.8176858
+207 947 306 1069 0.8096362

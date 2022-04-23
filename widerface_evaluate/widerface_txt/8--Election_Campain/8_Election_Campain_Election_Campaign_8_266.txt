@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_266
+2
+630 217 747 396 0.9948302
+279 111 420 296 0.9746089

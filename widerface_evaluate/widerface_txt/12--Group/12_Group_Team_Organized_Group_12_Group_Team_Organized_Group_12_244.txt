@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_244
+3
+620 125 753 318 0.9973917
+391 53 526 221 0.99645257
+148 113 291 250 0.9930292

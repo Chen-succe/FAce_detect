@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_504
+3
+432 107 530 211 0.9958489
+694 139 795 253 0.9958198
+166 219 251 307 0.7132784

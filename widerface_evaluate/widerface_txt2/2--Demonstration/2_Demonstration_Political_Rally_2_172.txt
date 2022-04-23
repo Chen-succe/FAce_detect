@@ -1,0 +1,3 @@
+2_Demonstration_Political_Rally_2_172
+1
+380 287 372 496 0.999783 

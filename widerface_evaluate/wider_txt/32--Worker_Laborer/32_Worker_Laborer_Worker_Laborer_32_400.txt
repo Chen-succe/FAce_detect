@@ -1,0 +1,3 @@
+32_Worker_Laborer_Worker_Laborer_32_400
+1
+701 176 744 228 0.7427389

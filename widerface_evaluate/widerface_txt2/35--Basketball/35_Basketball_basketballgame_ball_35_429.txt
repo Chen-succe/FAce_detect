@@ -1,0 +1,3 @@
+35_Basketball_basketballgame_ball_35_429
+1
+432 227 231 318 0.99968183 

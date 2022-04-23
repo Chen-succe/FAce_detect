@@ -1,0 +1,4 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_321
+2
+122 19 165 76 0.95282614
+612 15 653 69 0.9025898

@@ -1,0 +1,3 @@
+25_Soldier_Patrol_Soldier_Patrol_25_640
+1
+428 2 673 328 0.9961987

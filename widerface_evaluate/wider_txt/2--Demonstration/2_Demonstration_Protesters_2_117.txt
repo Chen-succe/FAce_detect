@@ -1,0 +1,3 @@
+2_Demonstration_Protesters_2_117
+1
+235 298 352 433 0.9935883
