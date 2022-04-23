@@ -1,3 +1,0 @@
-35_Basketball_basketballgame_ball_35_460
-1
-441 450 643 705 0.98670644

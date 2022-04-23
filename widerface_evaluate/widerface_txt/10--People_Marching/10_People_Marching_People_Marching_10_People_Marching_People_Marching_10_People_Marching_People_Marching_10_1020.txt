@@ -1,7 +1,0 @@
-10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_1020
-5
-686 93 729 148 0.4252189
-849 180 877 217 0.09106191
-871 228 907 273 0.031589303
-689 297 719 331 0.03064815
-622 220 710 329 0.024513176

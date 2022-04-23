@@ -1,4 +1,0 @@
-59_peopledrivingcar_peopledrivingcar_59_200
-2
-424 64 503 169 0.99885356
-144 258 231 364 0.9946792

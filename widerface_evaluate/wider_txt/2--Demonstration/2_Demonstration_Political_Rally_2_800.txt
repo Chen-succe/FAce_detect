@@ -1,3 +1,0 @@
-2_Demonstration_Political_Rally_2_800
-1
-350 201 512 407 0.99530655

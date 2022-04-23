@@ -1,3 +1,0 @@
-32_Worker_Laborer_Worker_Laborer_32_90
-1
-364 243 507 418 0.9893784
